@@ -1,0 +1,5 @@
+url: http://repo.jfrog.org/artifactory
+username: user
+password: password
+api_key: api_key
+
